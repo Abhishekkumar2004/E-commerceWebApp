@@ -1,11 +1,11 @@
 import p1_img from "../WomensCollection/product_1.jpg";
-import p2_img from "../KidsCollection/product_1.png";
+import p2_img from "../KidsCollection/product_1.jpg";
 import p3_img from "../WomensCollection/product_10.jpg";
 import p4_img from "../WomensCollection/product_8.jpg";
 import p5_img from "../WomensCollection/product_14.jpg";
-import p6_img from "../KidsCollection/product_15.png";
+import p6_img from "../KidsCollection/product_15.jpg";
 import p7_img from "../MensCollection/product_1.jpg";
-import p8_img from "../MensCollection/product_13.png";
+import p8_img from "../MensCollection/product_13.jpg";
 
 let new_collections = [
   {
