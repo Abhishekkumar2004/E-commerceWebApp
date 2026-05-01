@@ -11,6 +11,7 @@ import MenBanner from "../src/Components/Assets/men_banner.png";
 import WomenBanner from "../src/Components/Assets/women_banner.png";
 import KidsBanner from "../src/Components/Assets/kid_banner.png";
 import { Toaster } from "react-hot-toast";
+import { Analytics } from "@vercel/analytics/react";
 
 const App = () => {
   return (
