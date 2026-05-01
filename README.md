@@ -23,7 +23,7 @@ It provides a smooth shopping experience with product browsing, category filteri
 
 ---
 
-## ✨ Stylish Looks for Cool Kids  
+## ✨ Stylish Looks for Cool Kids
 **Comfort. Quality. Everyday.**
 
 🔥 **Up to 50% OFF**
@@ -41,10 +41,10 @@ It provides a smooth shopping experience with product browsing, category filteri
 - Clean and user-friendly layout  
 
 ### 🔎 Category Filtering
-- Browse products by:
-  - Men  
-  - Women  
-  - Kids  
+Browse products by:
+- Men  
+- Women  
+- Kids  
 
 ### 🛒 Cart Management
 - Add items to cart  
