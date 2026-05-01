@@ -41,6 +41,7 @@ const App = () => {
         <Route path="/login" element={<LoginSignUp />} />
       </Routes>
       <Footer />
+      <Analytics />
     </>
   );
 };
